@@ -11,7 +11,8 @@
 # MobaXterm汉化
 1. https://github.com/Eilte/Mobaxterm-Chinese 
 2. https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015234&highlight=Mobaxterm
-3. https://github.com/ntgengyf/MobaXterm-Chinese-Simplified
+3. https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017877&highlight=MobaXterm
+4. https://github.com/ntgengyf/MobaXterm-Chinese-Simplified
 
 
 
